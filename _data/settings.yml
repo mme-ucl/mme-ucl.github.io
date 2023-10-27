@@ -9,9 +9,9 @@ google-ID: ''
 menu:
 - {name: 'Research',  url: 'research'}
 - {name: 'People', url: 'people'}
-- {name: 'Teaching',       url: 'teaching'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Teaching', url: 'teaching'}
+- {name: 'About', url: 'about'}
+- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
