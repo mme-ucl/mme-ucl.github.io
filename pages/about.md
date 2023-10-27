@@ -4,4 +4,8 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+We are a research group working at the interface between physical chemistry and chemical engineering. Our research is focused on the application of molecular simulation methods to tackle problems in the fields of chemical and biochemical engineering.
+
+We are particularly interested in nucleation, polymorphism and crystal growth. 
+
+By developing and applying molecular simulation techniques to efficiently investigate these processes we aim at addressing open questions in pharmaceutical manufacturing and functional materials design.
