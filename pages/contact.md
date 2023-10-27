@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-Contact us: 
+
 
 We are based in the [Chemical Engineering Department](https://www.ucl.ac.uk/chemical-engineering), [Universty College London](https://www.ucl.ac.uk)
 
