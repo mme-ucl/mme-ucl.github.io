@@ -4,11 +4,11 @@
 
 
 ## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) | _Principal Investigator_ 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Msalvalaglio.jpeg" align="left" width="200px"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Msalvalaglio.jpeg" align="right" width="200px"/>
 Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
 Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland).
 Matteo is a member of the Thomas Young Centre and of the Centre for Process Systems Engineering. 
-<br clear="left"/>
+<br clear="right"/>
 
 ## [Dr Lunna Li](https://profiles.ucl.ac.uk/76167-lunna-li) | _2020 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/lunnali_0.jpg" align="left" width="200"/>
