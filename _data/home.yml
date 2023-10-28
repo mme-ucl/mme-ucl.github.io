@@ -28,29 +28,32 @@ project_entries:
   - title: Enhanced Sampling & Free Energy Calculations
     url: enhanced
 
-
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: PSSP II online notes
+    url: https://msalvalaglio.github.io/PSSP_notebook/index.html#
+    desc: Online notes for the UCL PSSI course, with notebook & exercises 
+    highlight: teaching
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
+  - title: Molecular Thermodynamics online notes
+    url: https://msalvalaglio.github.io/Molecular_Thermodynamics_Notebook/index.html
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: PyPol
+    url: https://github.com/mme-ucl/pypol
+    desc: Python-based implementation of the workflow described in [Francia et al. CG&D 2020](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00918)
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Mean Force Integration
+    url: https://github.com/mme-ucl/MFI
+    desc: Python implementation of the MFI method, described in [Marinova et al. JPC 2019](https://doi.org/10.1063/1.5123498)
 
+  - title: CmuMD
+    url: https://github.com/mme-ucl/CmuMD
+    desc: Implementation for PLUMED2 of the CmuMD algorithm, described in [Perego et al. JPC 2015](https://doi.org/10.1063/1.4917200)
+    
 footer_entries:
 
   - title: twitter
-    url: https://twitter.com/MMEgroup_UCL
+    url: https://twitter.com/UCL_MMEgroup
 
   - title: UCL website
     url: http://www.ucl.ac.uk/molecular-modelling
