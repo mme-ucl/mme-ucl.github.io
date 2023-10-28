@@ -1,12 +1,12 @@
 ---
-layout: page
-title: People
-permalink: /people
+layout: post
+title: About
 ---
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190485044@N08/53059449668/in/album-72157716183483273/" title="IMG_0651"><img src="https://live.staticflickr.com/65535/53059449668_03bb9e8a5c_b.jpg" width="1024" alt="IMG_0651"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-## [Matteo Salvalaglio]()
+## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio)
 
 _Principal Investigator_
 
@@ -14,15 +14,15 @@ Matteo is Professor of Molecular Systems Engineering in the Department of Chemic
 Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland).
 Matteo is a member of the Thomas Young Centre and of the Centre for Process Systems Engineering. 
 
-## Dr Lunna Li | _2020 - now_
+## [Dr Lunna Li](https://profiles.ucl.ac.uk/76167-lunna-li) | _2020 - now_
 
 Lunna Li studied Natural Sciences at the University of Cambridge during her undergraduate years. She obtained her PhD in Chemistry at the Department of Chemistry at Cambridge in 2017. Previously, she has worked at the Singapore University of Technology and Design and the Massachusetts Institute of Technology. Her research interests include using classical MD simulations to study the structures and properties of various proteins. She also specializes in free energy calculations and solubility predictions. In her spare time, she enjoys reading and loves to visit art & science museums.
 
-## Dr Fabienne Bachtiger | _2023 - now_
+## [Dr Fabienne Bachtiger](https://profiles.ucl.ac.uk/94086-fabienne-bachtiger) | _2023 - now_
 
-## Dr Matteo Paloni | _2023 - now_
+## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
 
-## Dr Louise Price | _2023 - now_
+## [Dr Louise Price]() | _2023 - now_
 
 
 ## Antoniu Bjola | _2020 - now_
