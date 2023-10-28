@@ -1,10 +1,7 @@
 ---
-layout: page
-title: Contact
-permalink: /contact
+layout: post
+title: Contacts & Directions
 ---
-
-
 
 We are based in the [Chemical Engineering Department](https://www.ucl.ac.uk/chemical-engineering), [Universty College London](https://www.ucl.ac.uk)
 
