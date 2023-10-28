@@ -11,65 +11,65 @@ Matteo is a member of the Thomas Young Centre and of the Centre for Process Syst
 <br clear="right"/>
 
 ## [Dr Lunna Li](https://profiles.ucl.ac.uk/76167-lunna-li) | _2020 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/lunnali_0.jpg" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/lunnali_0.jpg" align="right" width="200"/>
 Lunna Li studied Natural Sciences at the University of Cambridge during her undergraduate years. She obtained her PhD in Chemistry at the Department of Chemistry at Cambridge in 2017. Previously, she has worked at the Singapore University of Technology and Design and the Massachusetts Institute of Technology. Her research interests include using classical MD simulations to study the structures and properties of various proteins. She also specializes in free energy calculations and solubility predictions. In her spare time, she enjoys reading and loves to visit art & science museums.
-<br clear="left"/>
+<br clear="right"/>
 
 ## [Dr Fabienne Bachtiger](https://profiles.ucl.ac.uk/94086-fabienne-bachtiger) | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="left" width="200"/>
-<br clear="left"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<br clear="right"/>
 
 ## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="left" width="200"/>
-<br clear="left"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<br clear="right"/>
 
 ## [Dr Louise Price]() | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="left" width="200"/>
-<br clear="left"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<br clear="right"/>
 
 ## Antoniu Bjola | _2020 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/antoniubjola2.jpg" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/antoniubjola2.jpg" align="right" width="200"/>
 I am generally interested in Physics and Chemistry, especially when they fuse together at a molecular scale. In my undergraduate studies, I investigated the phase behaviour of heavy hydrocarbon mixtures and worked on a correlation between the residual entropy and the viscosity of a system. In my current research, I am occupied with enhanced molecular modelling techniques with applications to nucleation phenomena. 
 I also enjoy playing basketball, travelling and hiking.
-<br clear="left"/>
+<br clear="right"/>
 
 ## Florian Dietrich | _2021 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Florian.png" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Florian.png" align="right" width="200"/>
 I enjoy working on interdisciplinary research combining Chemistry, Physics and Computer Science. I did my Bachelors degree in Chemistry at the TU Darmstadt where I decided to specialise in computational Chemistry.  For my thesis, I worked on method development for coarse-graining approaches. I did my Masters in theoretical and computational Chemistry at Uppsala University where for my thesis I investigated ion diffusion in a crystalline electrolyte using machine learning potentials.
 In my free time, I enjoy doing martial arts and playing chess.
-<br clear="left"/>
+<br clear="right"/>
 
 ## Alex Ferreira | _2021 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alex-2.jpg" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alex-2.jpg" align="right" width="200"/>
 Alex obtained his MSci from Imperial College London in 2020, with a final project on the construction of chemical databases through text extraction. He now works on modelling the crystallizability of pharmaceutical molecules through a combination of molecular dynamics and data-science techniques.
 When not staring at a computer, he is probably staring at a book or a television instead.
-<br clear="left"/>
+<br clear="right"/>
 
 ## Edgar Olehnovics | _2021 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/edgar.jpg" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/edgar.jpg" align="right" width="200"/>
 My BSc background is in Pharmacology. During my MRes project at UCL, I investigated similarities and differences in dynamics and kinetics of four homologous beta-lactamase enzymes. In my spare time, I enjoy studying and implementing various machine learning techniques, especially in the context of pharmaceutically relevant systems. My current research is centred around enhanced molecular dynamics simulations, focusing on small-molecule crystalline systems.
-<br clear="left"/>
+<br clear="right"/>
 
 ## Xinrui Cai | _2021 - now_
 **Co-Supervised by Prof. Alberto Striolo**
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="right" width="200"/>
 Xinrui studied Chemical Engineering at UCL, where she investigated the stochastic nature of nucleation in a colloidal system using atomistic
 simulation. Her current research focuses on uncovering the underlying mechanism of hydrate formation in the presence of additives using MD simulation.
 In her free time, she enjoys food, table tennis and Genshin Impact (for the time being).
-<br clear="left"/>
+<br clear="right"/>
 
 ## Alex Moriarty | _2021 - now_
 **Co-Supervised by Prof. Alberto Striolo**
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="right" width="200"/>
 Alex graduated with an MEng in Materials Science and Engineering from Imperial College London in 2021, completing a Master's thesis on interpreting machine learning (ML) models for predicting materials properties. He continues to be fascinated by the power of ML for solving problems in science, and his PhD project investigates applying ML to surfactant design. He enjoys climbing, chess and creative coding.
-<br clear="left"/>
+<br clear="right"/>
 
 ## Will Wood | _2022 - now_
 **Co-Supervised by Prof. Sally Price**
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="left"  width="200"/>
-<br clear="left"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right"  width="200"/>
+<br clear="right"/>
 
 ## Visiting Researchers: 
 
