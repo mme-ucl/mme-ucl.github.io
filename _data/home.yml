@@ -55,7 +55,7 @@ old_project_entries:
 
   - title: NNucleate
     url: https://github.com/mme-ucl/NNucleate
-    desc: Approximate expensive nucleation collective variables as described in Dietricch et al. JCTC 2023. 
+    desc: Approximate expensive nucleation collective variables as described in Dietrich et al. JCTC 2023. 
     highlight: source + documentation 
 
   - title: LLPS in N-constrained ensembles
