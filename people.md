@@ -8,10 +8,8 @@ title: People
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190485044@N08/53059449668/in/album-72157716183483273/" title="IMG_0651"><img src="https://live.staticflickr.com/65535/53059449668_03bb9e8a5c_b.jpg" width="1024" alt="IMG_0651"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio)
-
-_Principal Investigator_
-
+## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) |
+_Principal Investigator_ |
 ![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg) | Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
 Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland).
 Matteo is a member of the Thomas Young Centre and of the Centre for Process Systems Engineering. 
