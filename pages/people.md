@@ -3,8 +3,6 @@ layout: page
 title: People
 permalink: /people
 ---
-
-# The Molecular Modelling & Engineering Group
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190485044@N08/53059449668/in/album-72157716183483273/" title="IMG_0651"><img src="https://live.staticflickr.com/65535/53059449668_03bb9e8a5c_b.jpg" width="1024" alt="IMG_0651"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
@@ -86,22 +84,20 @@ _Visiting Researcher 2023 - now_
 
 # Alumni
 
-**Dr Aaron Finney** - Postdoctoral Researcher March 2019 - October 2023 - || next destination: [Lecturer in Materials Science, University of Liverpool](https://www.liverpool.ac.uk/engineering/staff/aaron-finney/). 
+**Dr Aaron Finney** - Postdoctoral Researcher March 2019 - October 2023, _next destination:_ [Lecturer in Materials Science, University of Liverpool](https://www.liverpool.ac.uk/engineering/staff/aaron-finney/). 
 
-**Ilaria Gimondi** - PhD Student - Nov. 2015 - Mar. 2020  || next destination:  [Education and Outreach Officer, Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/ilaria-gimondi-19b752198/?originalSubdomain=uk)
+**Ilaria Gimondi** - PhD Student - Nov. 2015 - Mar. 2020,  _next destination:_  [Education and Outreach Officer, Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/ilaria-gimondi-19b752198/?originalSubdomain=uk)
 
-**Veselina Marinova** - PhD Candidate - Jun. 2016 - Mar. 2020 || next destination:  [Postdoctoral researcher in the group of Prof. John Harding and Prof. Colin Freeman, Sheffield University](https://www.sheffield.ac.uk/materials/people/research-staff/veselina-marinova)
+**Veselina Marinova** - PhD Candidate - Jun. 2016 - Mar. 2020, _next destination:_  [Postdoctoral researcher in the group of Prof. John Harding and Prof. Colin Freeman, Sheffield University](https://www.sheffield.ac.uk/materials/people/research-staff/veselina-marinova)
 
-**Loukas Kollias** - PhD Candidate - Sept. 2016 - Jun. 2020 || next destination: Postdoctoral researcher at Pacific Northwestern National Laboratory, US
+**Loukas Kollias** - PhD Candidate - Sept. 2016 - Jun. 2020, _next destination:_ Postdoctoral researcher at Pacific Northwestern National Laboratory, US
 
-**Nicholas Francia** - PhD Candidate - March. 2017 - Dec. 2021 || next destination: [Postdoctoral researcher,  Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/nicholasfrancia/)
+**Nicholas Francia** - PhD Candidate - March. 2017 - Dec. 2021, _next destination:_ [Postdoctoral researcher,  Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/nicholasfrancia/)
 
 --
 ## Visiting 
 
-**Matteo Paloni** - Visiting PhD Student, Politecnico di Milano - 2016 
-
-**Ioannis Vasiloupoulos** - Visiting PhD student, ICT Prague - 2019 
+**Gioacchino Schifino** - Visiting PhD Student, Università della Magna Graecia - 2023
 
 **Luigi Leanza** - Visiting PhD student, Politecnico di Torino - 2022
 
@@ -109,7 +105,11 @@ _Visiting Researcher 2023 - now_
 
 **Raitis Bobrovs**  - Visiting Researcher Latvian Institute of Organic synthesis - 2019,2021,2022
 
+**Ioannis Vasiloupoulos** - Visiting PhD student, ICT Prague - 2019 
+
 **A Be̅rziņš** - Visiting Researcher Latvian Institute of Organic synthesis - 2019
+
+**Matteo Paloni** - Visiting PhD Student, Politecnico di Milano - 2016 
 
 
 ## Undergraduate Researchers 
