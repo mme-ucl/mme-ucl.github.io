@@ -58,6 +58,18 @@ old_project_entries:
     url: https://github.com/mme-ucl/NNucleate
     desc: Approximate expensive nucleation collective variables as described in Dietricch et al. JCTC 2023. 
     highlight: source + documentation 
+
+  - title: LLPS in N-constrained ensembles
+    url: https://github.com/mme-ucl/confined_LLPS
+    desc: Postprocess liquid-droplet nucleation simulations (& experiments) to extract information from steady-state system configurations. 
+    highlight: example notebooks 
+
+  - title: NaCl(aq) nucleation rates
+    url: https://github.com/mme-ucl/NaCl_water_Nucleation_Rates
+    desc: A collection of NaCl(aq) nucleation rate estimates, featured in Finney and Salvalaglio, WIREs 2023. 
+    highlight: dataset + notebook
+    
+    
     
 footer_entries:
 
