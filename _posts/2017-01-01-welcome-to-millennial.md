@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Millennial!"
 author: "Paul Le"
-categories: documentation
+categories: research
 tags: [documentation,sample]
 image: MME_group_2023.jpg
 ---
