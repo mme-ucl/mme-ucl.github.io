@@ -1,0 +1,4 @@
+### Crystallization Collective Variables
+Nucleation, as previously mentioned, is a challenging problem to study computationally. In this group, we employ enhanced sampling methods that push the system toward nucleation in one way or another. However, an interesting research question here is, what is this direction? Typically, this direction is expressed as a mathematical function approximating the system's degree of order/crystallinity. Such a function needs to be able to deal with all the complexities inherent to the nucleation problem at hand while, at the same time, being as computationally efficient as possible. Finding this compromise is challenging and an ongoing area of research in this group.
+
+_Relevant Publications_: 

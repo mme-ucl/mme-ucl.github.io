@@ -1,0 +1,4 @@
+### Conformational Flexibility of Organic Molecules in Solution
+We harness the power of unsupervised clustering to untangle the conformational complexity of highly flexible drug molecules. Using data generated from enhanced sampling molecular dynamics simulations, the endless number of contortions undertaken by a molecule in solution can be refined into a set of key conformers. The relative population of these conformers evolve as the system moves from the solution to the crystal phase, allowing us to trace the path taken by the molecule as it settles into its position in the lattice.
+
+_Relevant Publications_: 
