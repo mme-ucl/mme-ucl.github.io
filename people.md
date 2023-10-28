@@ -12,7 +12,7 @@ title: People
 
 _Principal Investigator_
 
-Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
+![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg) | Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
 Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland).
 Matteo is a member of the Thomas Young Centre and of the Centre for Process Systems Engineering. 
 
