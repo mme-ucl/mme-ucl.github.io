@@ -3,11 +3,6 @@ layout: post
 title: the group
 ---
 
-## Photo Gallery 
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190485044@N08/53059449668/in/album-72157716183483273/" title="IMG_0651"><img src="https://live.staticflickr.com/65535/53059449668_03bb9e8a5c_b.jpg" width="1024" alt="IMG_0651"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 ## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) | _Principal Investigator_ 
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Msalvalaglio.jpeg" align="right" width="200px"/>
 Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
