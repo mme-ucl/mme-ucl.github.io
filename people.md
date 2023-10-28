@@ -75,7 +75,7 @@ Alex graduated with an MEng in Materials Science and Engineering from Imperial C
 
 ## Will Wood | _2022 - now_
 **Co-Supervised by Prof. Sally Price**
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/Will.jpeg" align="left"  width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/logo.jpg" align="left"  width="200"/>
 <br clear="left"/>
 
 ## Visiting Researchers: 
