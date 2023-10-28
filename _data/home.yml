@@ -5,8 +5,8 @@ navbar_entries:
   - title: people
     url: people
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: teaching
+    url: teaching
 
 project_entries:
   - title: Project 1
