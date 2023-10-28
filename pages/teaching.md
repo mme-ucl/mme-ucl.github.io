@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /about
+permalink: /teaching
 ---
 
 Our group is involved in several teaching activities: all PhD students work as TAs within the Chemical Engineering or Natural Sciences curricula at UCL. 
