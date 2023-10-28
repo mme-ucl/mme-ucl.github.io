@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Research',  url: 'research'}
 - {name: 'People', url: 'people'}
-- {name: 'Teaching', url: 'sample-posts'}
+- {name: 'Teaching', url: 'teaching'}
 - {name: 'About', url: 'about'}
 - {name: 'Contact', url: 'contact'}
 
