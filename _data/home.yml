@@ -2,8 +2,8 @@ navbar_entries:
   - title: contact
     url: contact
 
-  - title: blog
-    url: blog
+  - title: people
+    url: people
 
   - title: website
     url: https://www.abhinav.co
@@ -54,17 +54,16 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/MMEgroup_UCL
+
+  - title: UCL website
+    url: http://www.ucl.ac.uk/molecular-modelling
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/mme-ucl
 
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
