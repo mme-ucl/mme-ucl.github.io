@@ -31,7 +31,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="left"/>
 
 ## [Dr Louise Price]() | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/logo.jpg align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/logo.jpg" align="left" width="200"/>
 <br clear="left"/>
 
 ## Antoniu Bjola | _2020 - now_
