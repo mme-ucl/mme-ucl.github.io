@@ -11,11 +11,11 @@ We are based in the [Chemical Engineering Department](https://www.ucl.ac.uk/chem
 
 Professor of Molecular Systems Engineering 
 
-Department of Chemical Engineering |University College London 
+Department of Chemical Engineering, University College London 
 
-Torrington Place | London WC1E 7JE
+Torrington Place, London WC1E 7JE
 
-Roberts Building | Room 210b
+Roberts Building,  Room 210b
 
 #### Tel:  +44 (0)20 7679 3716
 
