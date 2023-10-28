@@ -2,4 +2,6 @@
 layout: home
 ---
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Group2023.jpg" alt="2016 photo" width="1024"/>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190485044@N08/albums/72157716183483273" title="Group Photos"><img src="https://live.staticflickr.com/65535/51254987635_87dca2bdca_b.jpg" width="1024" height="768" alt="Group Photos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
