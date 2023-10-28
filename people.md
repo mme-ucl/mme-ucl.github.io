@@ -14,9 +14,7 @@ some text floating around the image
 
 
 
-## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) 
-_Principal Investigator_ 
-
+## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) | _Principal Investigator_ 
 
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/Msalvalaglio.jpeg" align="left" width="200px"/>
 Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
@@ -60,14 +58,14 @@ In my free time, I enjoy doing martial arts and playing chess.
 
 ## Alex Ferreira | _2021 - now_
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/Msalvalaglio.jpeg" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/alex-2.jpg" align="left" width="200"/>
 Alex obtained his MSci from Imperial College London in 2020, with a final project on the construction of chemical databases through text extraction. He now works on modelling the crystallizability of pharmaceutical molecules through a combination of molecular dynamics and data-science techniques.
 When not staring at a computer, he is probably staring at a book or a television instead.
 <br clear="left"/>
 
 ## Edgar Olehnovics | _2021 - now_
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/edgar.png" align="left" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/edgar.jpg" align="left" width="200"/>
 My BSc background is in Pharmacology. During my MRes project at UCL, I investigated similarities and differences in dynamics and kinetics of four homologous beta-lactamase enzymes. In my spare time, I enjoy studying and implementing various machine learning techniques, especially in the context of pharmaceutically relevant systems. My current research is centred around enhanced molecular dynamics simulations, focusing on small-molecule crystalline systems.
 <br clear="left"/>
 
@@ -107,7 +105,7 @@ _Visiting Researcher 2023 - now_
 
 # Alumni
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/Alumni.jpeg" alt="2016 photo" width="800"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/blob/main/images/Group1.jpg" alt="2016 photo" width="800"/>
 
 **Dr Aaron Finney** - Postdoctoral Researcher March 2019 - October 2023, _next destination:_ [Lecturer in Materials Science, University of Liverpool](https://www.liverpool.ac.uk/engineering/staff/aaron-finney/). 
 
