@@ -2,7 +2,7 @@
 layout: post
 title: Theory and Simulations of Nucleation
 ---
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/nucleation.png" align="right" width="500px"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/nucleation.png" align="right" width="700px"/>
 
 Nucleation is a rare event marking the emergence of new materials. Understanding the physicochemical mechanisms for nucleation of liquids and crystals is important to control these processes and determine their rates. In the MME, we develop and apply molecular simulation techniques to study nucleation. 
 In this area we have developed methods to employ simulations as computational experiments to reveal nucleation mechanisms in solution and used biased sampling to estimate nucleation rates in simple systems. 
