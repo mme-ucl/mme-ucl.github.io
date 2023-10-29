@@ -5,9 +5,6 @@ navbar_entries:
   - title: contacts
     url: contact
 
-
-
-
 project_entries:
   - title: Theory and Simulations of Nucleation
     url: nucleation
@@ -69,25 +66,25 @@ old_project_entries:
     highlight: dataset + notebook
     
     
-    
 footer_entries:
 
   - title: twitter
     url: https://twitter.com/UCL_MMEgroup
-
-  - title: UCL website
-    url: http://www.ucl.ac.uk/molecular-modelling
 
   - title: github
     url: https://github.com/mme-ucl
 
 
 misc_entries:
+
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=ro2b4-MAAAAJ&hl=en
 
   - title: ORCID
     url: https://orcid.org/0000-0003-3371-2090
+
+  - title: PhD theses
+    url: PhDtheses
     
 
 
