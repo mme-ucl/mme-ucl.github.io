@@ -20,7 +20,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="right"/>
 
 ## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/MatteoP.jpg" align="right" width="200"/>
 <br clear="right"/>
 
 ## [Dr Louise Price]() | _2023 - now_
