@@ -3,7 +3,7 @@ layout: post
 title: Enhanced Sampling Method Development
 ---
 
-<video src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/MFI_movie.m4v" align="center" width="800px"/>
+<video src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/MFI_movie.m4v" align="center" width="800px"/></video>
 
 Molecular simulations provide the tools to study how the structural evolution of a collection of molecules gives rise to macroscopic material properties, such as crystal habits and polymorphism. The timescales over which processes such as self-assembly, crystal growth, and dissolution occur are typically far beyond the microsecond capabilities of standard molecular dynamics. Enhanced sampling simulations circumvent these challenges by, for example, biasing the potential energy landscape to force the system to sample regions of collective variable space that would otherwise be visited with very low probability. We develop and apply enhanced sampling methods such as metadynamics and umbrella sampling to simulate activated assembly to gain mechanistic insight and rates for these processes. 
 In this context, we have developed methods to assess the quality of rate estimates from metadynamics simulations, to map entropic and enthalpic contributions in collective variable spaces, and to use thermodynamic integration to reconstruct free energy surfaces from asynchronous metadynamics simulations. 
