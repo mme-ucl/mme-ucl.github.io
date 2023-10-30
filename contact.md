@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contacts & Directions
+title: contacts & directions
 ---
 
 <br/>
