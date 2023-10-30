@@ -18,10 +18,8 @@ The Journal of chemical physics 147 (11), 2017.](https://pubs.aip.org/aip/jcp/ar
 - [A variational approach to assess reaction coordinates for two-step crystallization AR Finney, M Salvalaglio The Journal of Chemical Physics 158 (9), 2023.](https://pubs.aip.org/aip/jcp/article/158/9/094503/2881387)
 - [Machine Learning Nucleation Collective Variables with Graph Neural Networks, FM Dietrich, XR Advincula, G Gobbo, MA Bellucci, M Salvalaglio Journal of Chemical Theory and Computation, 2023.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00722)
 
-
-
 _Review_: 
-[Metadynamics studies of crystal nucleation, F Giberti, M Salvalaglio, M Parrinello, IUCrJ 2 (2), 256-266	93	2015.](https://journals.iucr.org/m/issues/2015/02/00/jt5007/index.html) 
+- [Metadynamics studies of crystal nucleation, F Giberti, M Salvalaglio, M Parrinello, IUCrJ 2 (2), 256-266	93	2015.](https://journals.iucr.org/m/issues/2015/02/00/jt5007/index.html) 
 	
 
 
