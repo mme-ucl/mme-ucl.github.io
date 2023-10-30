@@ -20,6 +20,6 @@ CrystEngComm 23 (33), 5575-5584	8	2021](https://pubs.rsc.org/en/content/articleh
 
 [_PyPOL Source_](https://github.com/mme-ucl/pypol)
 
-[_Documentation PDF_](https://github.com/mme-ucl/pypol/raw/master/doc/Pypol_Manual.pdf)
+[_Documentation PDF_](https://github.com/mme-ucl/pypol/blob/master/doc/Pypol_Manual.pdf)
 
 <br clear="right"/>
