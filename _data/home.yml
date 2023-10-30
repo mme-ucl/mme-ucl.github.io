@@ -21,7 +21,7 @@ project_entries:
   - title: Controlling Chemical Potential in finite-sized simulations with CμMD
     url: cmumd
 
-  - title: Enhanced Sampling & Free Energy Calculations
+  - title: Enhanced Sampling Method Development
     url: enhanced
 
 old_project_entries:
