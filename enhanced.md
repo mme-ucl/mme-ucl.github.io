@@ -8,7 +8,6 @@ In this context, we have developed methods to assess the quality of rate estimat
 Recently, part of our method development efforts focused on machine-learning/data-based approaches. We aim to combine modern machine-learning techniques with a deep understanding of the underlying physics to push the limits of modern simulation and modelling techniques.
 
 _Relevant Publications_: 
-
 - [Assessing the reliability of the dynamics reconstructed from metadynamics M Salvalaglio, P Tiwary, M Parrinello, Journal of chemical theory and computation 10 (4), 1420-1425, 2015.](https://pubs.acs.org/doi/abs/10.1021/ct500040r)
 - [Building Maps In Collective Variable Space, I Gimondi, G Tribello, M Salvalaglio, The Journal of Chemical Physics 149 (10), 104104, 2018.](https://pubs.aip.org/aip/jcp/article/149/10/104104/196263)
 - [Time-independent free energies from metadynamics via mean force integration, V Marinova, M Salvalaglio, The Journal of Chemical Physics 151 (16), 2019.](https://pubs.aip.org/aip/jcp/article/151/16/164115/1065327)
@@ -17,7 +16,6 @@ _Relevant Publications_:
 
 
 _Source Code_: 
-
 - [**NNucleate**](https://github.com/mme-ucl/NNucleate) Approximate expensive nucleation collective variables as described in [Dietrich et al. JCTC 2023](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00722). [Documentation + Tutorial](https://flofega.github.io/NNucleate/)
-- [**Mean Force Integration**](https://github.com/mme-ucl/MFI) Python implementation of the MFI method, described in Marinova et al. JPC 2019
+- [**Mean Force Integration**](https://github.com/mme-ucl/MFI) Python implementation of the MFI method, described in [Marinova et al. JPC 2019](https://pubs.aip.org/aip/jcp/article/151/16/164115/1065327).
 
