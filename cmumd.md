@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CμMD: Controlling Chemical Potential in finite-sized simulations
+title: CμMD\: Controlling Chemical Potential in finite-sized simulations
 ---
 
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/cmumd.png" align="center" width="800px"/>
