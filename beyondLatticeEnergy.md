@@ -3,7 +3,7 @@ layout: post
 title: Crystal Structure Prediction
 ---
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/nucleation.png" align="right" width="500px"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/beyondLatticeEnergy.png" align="right" width="500px"/>
 Different packings of the same molecule (polymorphism) can lead to different physical properties, such as melting point, hygroscopicity and bioavailability. This can cause problems for the effectiveness of many materials, particularly pharmaceuticals. Hence it is very important for industry to know which polymorphs are likely.
 Crystal Structure Prediction (CSP) generates energy/structure/function landscapes of hypothetical crystal structures. These structures are ranked based on their lattice energy, with the most stable being the most likely to form. Energy landscapes (such as the one pictured) often have many more hypothetical crystal structures than observed polymorphs, but are still useful in assessing the experimental solid form landscape for small pharmaceuticals, such as galunisertib or ibuprofen.
 
