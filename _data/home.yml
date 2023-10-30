@@ -18,7 +18,7 @@ project_entries:
   - title: Beyond Lattice Energy landscapes in Crystal Structure Prediction
     url: beyondLatticeEnergy
 
-  - title: Controlling Chemical Potential in finite-sized simulations
+  - title: Controlling Chemical Potential in finite-sized simulations with CμMD
     url: cmumd
 
   - title: Enhanced Sampling & Free Energy Calculations
