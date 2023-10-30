@@ -14,7 +14,6 @@ _Method Papers:_
 A Ozcan, C Perego, M Salvalaglio, M Parrinello, O Yazaydin, Chemical science 8 (5), 3858-3865, 2017](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c6sc04978h) 
 
 _Applications to electrochemical interfaces:_ 
-
 - [Constant chemical potential–quantum mechanical–molecular dynamics simulations of the graphene–electrolyte double layer
 N Di Pasquale, AR Finney, JD Elliott, P Carbone, M Salvalaglio, The Journal of Chemical Physics 158 (13), 2023](https://pubs.aip.org/aip/jcp/article/158/13/134714/2883280/Constant-chemical-potential-quantum-mechanical)
 - [Properties of aqueous electrolyte solutions at carbon electrodes: effects of concentration and surface charge on solution structure, ion clustering and thermodynamics in the electric double layer. AR Finney, M Salvalaglio, Faraday Discussions	2023](https://pubs.rsc.org/en/content/articlehtml/2023/fd/d3fd00133d)
@@ -23,7 +22,7 @@ AR Finney, M Salvalaglio, Chemical Engineering Research and Design 180, 285-295,
 - [Electrochemistry, ion adsorption and dynamics in the double layer: a study of NaCl(aq) on graphite. AR Finney, IJ McPherson, PR Unwin, M Salvalaglio, Chemical Science 12, 11166-11180, 2021](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc02289j)
 
 _Review:_ 
-[Non-Equilibrium Modeling of Concentration-Driven processes with Constant Chemical Potential Molecular Dynamics Simulations
+- [Non-Equilibrium Modeling of Concentration-Driven processes with Constant Chemical Potential Molecular Dynamics Simulations
 T Karmakar, AR Finney, M Salvalaglio, AO Yazaydin, C Perego Accounts of Chemical Research 56 (10), 1156-1167, 2023.](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.2c00811)
 
 [_Source code for PLUMED2_](https://github.com/mme-ucl/CmuMD)
