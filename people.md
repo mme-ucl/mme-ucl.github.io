@@ -21,6 +21,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 
 ## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/MatteoP.jpg" align="right" width="200"/>
+Matteo Paloni received his PhD in Chemical Engineering in 2017 from Politecnico di Milano (Italy) with a thesis on methods for estimating binding free energies from MD simulations. From 2017 to 2023, he was a postdoctoral researcher in the group of Dr. Alessandro Barducci at the Centre de Biologie Structurale (CBS) in Montpellier (France), where he used multiscale molecular models to study the liquid-liquid phase separation (LLPS) of proteins and nucleic acids. His research at UCL includes the development of tools to perform and analyse systematically large sets of MD simulations. When not working, he enjoys reading and walking around the city.
 <br clear="right"/>
 
 ## [Dr Louise Price]() | _2023 - now_
