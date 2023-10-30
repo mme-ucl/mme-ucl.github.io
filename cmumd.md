@@ -3,7 +3,8 @@ layout: post
 title: CμMD: Controlling Chemical Potential in finite-sized simulations
 ---
 
-### 
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/cmumd.png" align="center" width="800px"/>
+
 Molecular dynamics simulations are usually performed using a constant number of molecules. In processes such as adsorption, crystal nucleation and dissolution, the transfer of molecules to/from a solid phase changes the number of molecules in the surrounding medium, resulting in an evolving chemical potential for this phase and shifting the driving force for the process of interest. These changes can affect the rates and molecular mechanisms we wish to investigate. Our group, along with our collaborators, have developed a method called constant chemical potential molecular dynamics (CμMD) to maintain a constant composition fluid phase in non-equilibrium simulations. The method makes use of an internal reservoir which adds or removes molecules to a fluid medium as the concentration of these species is changed by the presence of a solid-fluid interface, allowing us to understand the properties of an evolving interface that can be accurately compared to experiments.
 CμMD has been employed to investigate crystal growth, nucleation, membrane-based separations, and electrochemical interfaces. 
 
