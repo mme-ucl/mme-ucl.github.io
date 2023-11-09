@@ -64,6 +64,11 @@ old_project_entries:
     url: https://github.com/mme-ucl/NaCl_water_Nucleation_Rates
     desc: A collection of NaCl(aq) nucleation rate estimates, featured in Finney and Salvalaglio, WIREs 2023. 
     highlight: dataset + notebook
+  
+  - title: Critical micelle concentration prediction models with uncertainty quantification.
+    url: https://github.com/a-ws-m/CaMCaNN
+    desc: Source code, notebooks, and paper as reported in "Analyzing the Accuracy of Critical Micelle Concentration Predictions using Deep Learning" A Moriarty et al. JCTC 2023. 
+    highlight: source + example notebooks
     
     
 footer_entries:
