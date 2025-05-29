@@ -7,7 +7,7 @@ title: the group
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Msalvalaglio.jpeg" align="right" width="200px"/>
 Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
 Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland).
-Matteo is a member of the Thomas Young Centre and of the Sargent Centre for Process Systems Engineering. 
+Matteo is a member of the Thomas Young Centre and of the Centre for Process Systems Engineering. 
 <br clear="right"/>
 
 ## [Dr Lunna Li](https://profiles.ucl.ac.uk/76167-lunna-li) | _2020 - now_
@@ -16,14 +16,11 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="right"/>
 
 ## [Dr Fabienne Bachtiger](https://profiles.ucl.ac.uk/94086-fabienne-bachtiger) | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/fabienne.jpg" align="right" width="200"/>
-Fabienne Bachtiger gained her undergraduate degree in Natural Sciences from the Open University. She then went on to complete her MSc in Analytical Sciences and PhD in Chemistry at the University of Warwick, graduating in 2023 under the supervision of Dr. Gabriele Sosso. Her current research looks at nucleation and growth events of molecular crystals with a focus towards developing new methods to extract nucleation rate parameters. 
-In her spare time she is mostly running after her toddler, but given the chance she also loves to hike, visit new cities and go for early morning runs.
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
 <br clear="right"/>
 
 ## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/MatteoP.jpg" align="right" width="200"/>
-Matteo Paloni received his PhD in Chemical Engineering in 2017 from Politecnico di Milano (Italy) with a thesis on methods for estimating binding free energies from MD simulations. From 2017 to 2023, he was a postdoctoral researcher in the group of Dr. Alessandro Barducci at the Centre de Biologie Structurale (CBS) in Montpellier (France), where he used multiscale molecular models to study the liquid-liquid phase separation (LLPS) of proteins and nucleic acids. His research at UCL includes the development of tools to perform and analyse systematically large sets of MD simulations. When not working, he enjoys reading and walking around the city.
 <br clear="right"/>
 
 ## [Dr Louise Price]() | _2023 - now_
@@ -31,6 +28,8 @@ Matteo Paloni received his PhD in Chemical Engineering in 2017 from Politecnico 
 <br clear="right"/>
 
 ## Harveen Kaur | _2024 - now_
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<br clear="right"/>
 
 ## Antoniu Bjola | _2020 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/antoniubjola2.jpg" align="right" width="200"/>
@@ -78,7 +77,7 @@ Alex graduated with an MEng in Materials Science and Engineering from Imperial C
 
 # Alumni
 
-**Alex Ferreira** | - PhD Student - June 2021 - May 2025
+**Alex Ferreira** - PhD Student - June 2021 - May 2025
 
 **Florian Dietrich** - PhD Student - June 2021 - May 2025, _next destination:_ [Postdoctoral researcher in the group of Prof. Parrinello, IIT Genova (IT)](https://atsim.iit.it/people-details/-/people/florian-dietrich)
 
