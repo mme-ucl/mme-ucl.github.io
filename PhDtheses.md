@@ -4,6 +4,14 @@ title: PhD theses
 ---
 
 
+## Florian Dietrich (2025)
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Florian.png" align="right" width="200px"/>
+### [Machine Learning Nucleation Collective Variables using Graph Neural Networks]()
+One of the main obstacles limiting the use of enhanced sampling techniques to study nucleation events, in particular those of molecular systems, in realistic environments, is the computational cost associated with evaluating and differentiating nucleation collective variables. This work addresses this bottleneck by developing a framework for training approximations of nucleation collective variables based on graph neural networks. These approximations are more computationally efficient and scale more favourably with system size than their analytical counterparts. This work further demonstrates how to recover the free energy surfaces corresponding to the analytical variables from model sampling, which enables the construction of free energy profiles in non-differentiable, previously inaccessible, descriptor spaces. The work on constructing, training and deploying graph neural network-based machine-learned collective variables led to studying the theoretical implications of constructing free energy surfaces in the space of variables that are the result of stochastic processes. This has led to the development of guidelines for the interpretation of free energy surfaces in machine-learned collective variable spaces, a novel gradient rescaling method and a novel regularisation technique. The generality and transferability of this framework are finally demonstrated by enhancing the sampling of guanine nucleation from solution. A system for which the nucleation mechanism was elucidated prior, in a joint experimental and computational study.
+
+<br clear="right"/>
+
+
 ## Nicholas Francia (2022)
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Nicholas.jpg" align="right" width="200px"/>
 ### [Reducing crystal structure overprediction: from small rigid molecules to conformationally complex drugs](https://discovery.ucl.ac.uk/id/eprint/10149865/)

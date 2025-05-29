@@ -30,23 +30,14 @@ Matteo Paloni received his PhD in Chemical Engineering in 2017 from Politecnico 
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
 <br clear="right"/>
 
+## Harveen Kaur | _2024 - now_
+
 ## Antoniu Bjola | _2020 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/antoniubjola2.jpg" align="right" width="200"/>
 I am generally interested in Physics and Chemistry, especially when they fuse together at a molecular scale. In my undergraduate studies, I investigated the phase behaviour of heavy hydrocarbon mixtures and worked on a correlation between the residual entropy and the viscosity of a system. In my current research, I am occupied with enhanced molecular modelling techniques with applications to nucleation phenomena. 
 I also enjoy playing basketball, travelling and hiking.
 <br clear="right"/>
 
-## Florian Dietrich | _2021 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Florian.png" align="right" width="200"/>
-I enjoy working on interdisciplinary research combining Chemistry, Physics and Computer Science. I did my Bachelors degree in Chemistry at the TU Darmstadt where I decided to specialise in computational Chemistry.  For my thesis, I worked on method development for coarse-graining approaches. I did my Masters in theoretical and computational Chemistry at Uppsala University where for my thesis I investigated ion diffusion in a crystalline electrolyte using machine learning potentials.
-In my free time, I enjoy doing martial arts and playing chess.
-<br clear="right"/>
-
-## Alex Ferreira | _2021 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alex-2.jpg" align="right" width="200"/>
-Alex obtained his MSci from Imperial College London in 2020, with a final project on the construction of chemical databases through text extraction. He now works on modelling the crystallizability of pharmaceutical molecules through a combination of molecular dynamics and data-science techniques.
-When not staring at a computer, he is probably staring at a book or a television instead.
-<br clear="right"/>
 
 ## Edgar Olehnovics | _2021 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/edgar.jpg" align="right" width="200"/>
@@ -76,32 +67,36 @@ Alex graduated with an MEng in Materials Science and Engineering from Imperial C
 
 ## Visiting Researchers: 
 
-**Dr Aaron Finney**, Lecturer in Materials Science, University of Liverpool. 
-_Visiting Researcher 2023 - now_
+**Giuseppe Prenesti**, PhD student, CNR Rende (ITA). _Visiting Researcher_ 2025
 
-**Francesco Serse**, PhD candidate, Politecnico di Milano. _Visiting Researcher 2023 - now_
 
 ## Undergraduates: 
 
-- **Daniel Ryrz**, MEng Researcher
-- **Naufal Zhamry**, MEng Researcher
-- **Aliff (Leo) Rahimee**, MEng Researcher
+- Natali Jakub, MSc
+- Lou Sen, MSc
+- Rai Bhattacharjee, Summer Research Intern
 
 # Alumni
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Group1.jpg" alt="2016 photo" width="800"/>
+**Alex Ferreira** | - PhD Student - June 2021 - May 2025
+
+**Florian Dietrich** - PhD Student - June 2021 - May 2025, _next destination:_ [Postdoctoral researcher in the group of Prof. Parrinello, IIT Genova (IT)](https://atsim.iit.it/people-details/-/people/florian-dietrich)
 
 **Dr Aaron Finney** - Postdoctoral Researcher March 2019 - October 2023, _next destination:_ [Lecturer in Materials Science, University of Liverpool](https://www.liverpool.ac.uk/engineering/staff/aaron-finney/). 
 
 **Ilaria Gimondi** - PhD Student - Nov. 2015 - Mar. 2020,  _next destination:_  [Education and Outreach Officer, Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/ilaria-gimondi-19b752198/?originalSubdomain=uk)
 
-**Veselina Marinova** - PhD Candidate - Jun. 2016 - Mar. 2020, _next destination:_  [Postdoctoral researcher in the group of Prof. John Harding and Prof. Colin Freeman, Sheffield University](https://www.sheffield.ac.uk/materials/people/research-staff/veselina-marinova)
+**Veselina Marinova** - PhD Student - Jun. 2016 - Mar. 2020, _next destination:_  [Postdoctoral researcher in the group of Prof. John Harding and Prof. Colin Freeman, Sheffield University](https://www.sheffield.ac.uk/materials/people/research-staff/veselina-marinova)
 
-**Loukas Kollias** - PhD Candidate - Sept. 2016 - Jun. 2020, _next destination:_ Postdoctoral researcher at Pacific Northwestern National Laboratory, US
+**Loukas Kollias** - PhD Student - Sept. 2016 - Jun. 2020, _next destination:_ [Postdoctoral researcher at Pacific Northwestern National Laboratory, US](https://www.linkedin.com/in/loukas-kollias-736222345/)
 
-**Nicholas Francia** - PhD Candidate - March. 2017 - Dec. 2021, _next destination:_ [Postdoctoral researcher,  Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/nicholasfrancia/)
+**Nicholas Francia** - PhD Student - March. 2017 - Dec. 2021, _next destination:_ [Postdoctoral researcher,  Cambridge Crystallographic Data Centre, Cambridge, UK](https://www.linkedin.com/in/nicholasfrancia/)
 
 ## Visiting 
+
+**Timo Schneider** - Visiting PhD Student, ETH Zurich. 2025
+
+**Francesco Serse** - Visiting PhD Student, Politecnico di Milano. 2023, 2024. 
 
 **Gioacchino Schifino** - Visiting PhD Student, Università della Magna Graecia - 2023
 
@@ -109,22 +104,31 @@ _Visiting Researcher 2023 - now_
 
 **Filippo Pinelli** - Visiting PhD student, Politecnico di Milano - 2021 
 
-**Raitis Bobrovs**  - Visiting Researcher Latvian Institute of Organic synthesis - 2019,2021,2022
+**Raitis Bobrovs**  - Visiting Researcher, Latvian Institute of Organic Synthesis - 2019,2021,2022
 
 **Ioannis Vasiloupoulos** - Visiting PhD student, ICT Prague - 2019 
 
-**A Be̅rziņš** - Visiting Researcher Latvian Institute of Organic synthesis - 2019
+**A Be̅rziņš** - Visiting Researcher, Latvian Institute of Organic Synthesis - 2019
 
 **Matteo Paloni** - Visiting PhD Student, Politecnico di Milano - 2016 
 
 
 ## Undergraduate Researchers 
 
+### 2024/25
+- Wallace Chen - MEng
+- Marcus Chan - MEng
+- Ashwin Ganesaratnam - MEng
+
+### 2023/24
+- Daniel Ryrz, MEng 
+- Naufal Zhamry, MEng 
+- Aliff (Leo) Rahimee, MEng 
+
 ### 2022/23 
 - Iggy Jemiol - Summer Research Intern
 - Yingqin Wang - MSc 
 - Nilan Navarasan - MEng 
-
 
 ### 2021/22
 - Michael Claridge - MEng 
