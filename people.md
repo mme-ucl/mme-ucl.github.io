@@ -31,25 +31,9 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
 <br clear="right"/>
 
-## Antoniu Bjola | _2020 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/antoniubjola2.jpg" align="right" width="200"/>
-I am generally interested in Physics and Chemistry, especially when they fuse together at a molecular scale. In my undergraduate studies, I investigated the phase behaviour of heavy hydrocarbon mixtures and worked on a correlation between the residual entropy and the viscosity of a system. In my current research, I am occupied with enhanced molecular modelling techniques with applications to nucleation phenomena. 
-I also enjoy playing basketball, travelling and hiking.
-<br clear="right"/>
-
-
 ## Edgar Olehnovics | _2021 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/edgar.jpg" align="right" width="200"/>
 My BSc background is in Pharmacology. During my MRes project at UCL, I investigated similarities and differences in dynamics and kinetics of four homologous beta-lactamase enzymes. In my spare time, I enjoy studying and implementing various machine learning techniques, especially in the context of pharmaceutically relevant systems. My current research is centred around enhanced molecular dynamics simulations, focusing on small-molecule crystalline systems.
-<br clear="right"/>
-
-## Xinrui Cai | _2021 - now_
-**Co-Supervised by Prof. Alberto Striolo**
-
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="right" width="200"/>
-Xinrui studied Chemical Engineering at UCL, where she investigated the stochastic nature of nucleation in a colloidal system using atomistic
-simulation. Her current research focuses on uncovering the underlying mechanism of hydrate formation in the presence of additives using MD simulation.
-In her free time, she enjoys food, table tennis and Genshin Impact (for the time being).
 <br clear="right"/>
 
 ## Alex Moriarty | _2021 - now_
@@ -76,6 +60,10 @@ Alex graduated with an MEng in Materials Science and Engineering from Imperial C
 - Rai Bhattacharjee, Summer Research Intern
 
 # Alumni
+
+**Xinrui Cai**  - PhD Student - Sept. 2021 - July 2025
+
+**Antoniu Bjola** - PhD Student - Sept. 2020 - July 2025
 
 **Alex Ferreira** - PhD Student - June 2021 - May 2025
 

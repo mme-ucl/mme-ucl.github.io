@@ -3,6 +3,16 @@ layout: post
 title: PhD theses
 ---
 
+## Xinrui Cai (2025)
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="right" width="200"/>
+
+## Antoniu Bjola (2025)
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/antoniubjola2.jpg" align="right" width="200"/>
+
+
+## Alex Ferreira (2025)
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alex-2.jpg" align="right" width="200"/>
+
 
 ## Florian Dietrich (2025)
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Florian.png" align="right" width="200px"/>
