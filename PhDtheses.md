@@ -3,6 +3,36 @@ layout: post
 title: PhD theses
 ---
 
+## Alex Moriarty (2025)
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="right" width="200"/>
+### [Improving formulations efficiency with molecularly-enhanced machine learning]()
+Herbicide retention on leaf surfaces is a critical challenge in agricultural
+chemistry, with significant economic and environmental implications. This thesis
+integrates molecular simulation, coarse-grained (CG) model development, and
+machine learning to address the design of surfactants that enhance droplet
+adhesion and reduce dynamic surface tension (DST). A series of CG models for
+Aerosol-OT (AOT) is developed and validated against experimental observables,
+enabling the first computational observation of micelle-to-vesicle transitions
+for this surfactant.
+The physical processes underlying surfactant adsorption are discussed, and CG
+simulations of AOT are used to estimate the kinetics of different competing
+pathways to adsorption. A model of a leaf surface based on the alkane octacosane
+is developed, and the adsorption of AOT vesicles on this surface is
+investigated. Evidence is presented for the importance of vesicle hemifusion to
+rapid DST reduction.
+Machine learning approaches, including graph neural networks (GNNs) and Gaussian
+processes (GPs), are applied to surfactant datasets for critical micelle
+concentration prediction, outperforming traditional methods and providing
+principled uncertainty quantification. It is shown that dimensionality reduction
+of the GNN latent space facilitates chemical space analysis and interpretation
+of surfactant similarity.
+The combined simulation and data-driven framework described here establishes a
+robust methodology for surfactant design, with direct applications to
+agricultural formulation development. These findings contribute to a deeper
+understanding of molecular mechanisms underlying droplet retention and provide a
+foundation for future empirical and computational research in surfactant
+science.
+
 ## Xinrui Cai (2025)
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="right" width="200"/>
 ### [Clathrate Hydrates: Effects of Kinetic and Thermodynamic Promoters probed via Molecular Simulations](https://discovery.ucl.ac.uk/id/eprint/10215934/)
