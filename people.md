@@ -36,10 +36,6 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 My BSc background is in Pharmacology. During my MRes project at UCL, I investigated similarities and differences in dynamics and kinetics of four homologous beta-lactamase enzymes. In my spare time, I enjoy studying and implementing various machine learning techniques, especially in the context of pharmaceutically relevant systems. My current research is centred around enhanced molecular dynamics simulations, focusing on small-molecule crystalline systems.
 <br clear="right"/>
 
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="right" width="200"/>
-Alex graduated with an MEng in Materials Science and Engineering from Imperial College London in 2021, completing a Master's thesis on interpreting machine learning (ML) models for predicting materials properties. He continues to be fascinated by the power of ML for solving problems in science, and his PhD project investigates applying ML to surfactant design. He enjoys climbing, chess and creative coding.
-<br clear="right"/>
-
 ## Will Wood | _2022 - now_
 **Co-Supervised by Prof. Sally Price**
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right"  width="200"/>
