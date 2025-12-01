@@ -4,7 +4,7 @@ title: PhD theses
 ---
 
 ## Alex Moriarty (2025)
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="right" width="150"/>
 ### [Improving formulations efficiency with molecularly-enhanced machine learning]()
 Herbicide retention on leaf surfaces is a critical challenge in agricultural
 chemistry, with significant economic and environmental implications. This thesis
@@ -34,7 +34,7 @@ foundation for future empirical and computational research in surfactant
 science.
 
 ## Xinrui Cai (2025)
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Xinrui.jpg" align="right" width="150"/>
 ### [Clathrate Hydrates: Effects of Kinetic and Thermodynamic Promoters probed via Molecular Simulations](https://discovery.ucl.ac.uk/id/eprint/10215934/)
 Gas hydrates, crystalline compounds made from water molecules formed under high-pressure and low-temperature conditions, have attracted significant interest for their potential in energy storage and carbon capture. However, their slow formation kinetics and narrow thermodynamic stability range pose significant challenges for practical applications. This thesis investigates, at the molecular level, how chemical additives known as promoters influence gas hydrate growth. Using molecular dynamics (MD) simulations, thermodynamic and kinetic promoters were studied, either by themselves or in combination. Explicitly, the role of L-tryptophan (TRP) as a kinetic promoter and 1,3-dioxane (DIO) as a thermodynamic promoter was individually examined. TRP was found to enhance interfacial structuring and facilitate the adsorption of CO2 molecules into hydrate cavities, thus promoting hydrate growth. On the other hand, DIO was observed to induce the formation of structure II (sII) hydrates rather than the typical structure I (sI) hydrates observed in the pure CH4 system, leading to the emergence of a novel methane uptake pathway driven by preferential cage occupancy. The combined effect of kinetic promoter - sodium dodecyl sulfate (SDS) and thermodynamic promoter - tetrahydrofuran (THF) revealed a complex interplay: while synergistic behaviour was observed at certain concentrations, SDS-induced micelle formation at elevated temperatures sequestered THF, leading to a reduction in its thermodynamic stabilisation and to an antagonistic effect. Moreover, a novel machine learning framework was developed to more accurately classify the local structure and identify hydrate cages, interfacial regions and bulk liquids. The findings in this thesis offer important insights into how hydrate promoters behave and serve as a useful foundation for designing more effective additive systems in hydrate-based applications.
 
