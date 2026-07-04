@@ -12,11 +12,13 @@ The over-prediction of putative polymorphs is a well-known issue of CSP that has
 i) Labile structures - i.e., crystal structures that, despite representing valid potential energy minima, are unstable when simulated at finite temperature and can thus be discarded. ii) Effectively equivalent structures—i.e., structures representing distinct potential energy minima that can easily interconvert and merge into the same dynamic ensemble at finite temperature.
 
 _Relevant Publications:_
-- [Systematic finite-temperature reduction of crystal energy landscapes. NF Francia, LS Price, J Nyman, SL Price, M Salvalaglio
-Crystal Growth & Design 20 (10), 6847-6862	23	2020](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00918)
+- [One size fits all? development of the CPOSS209 data set of experimental and hypothetical polymorphs for testing computational modeling methods, LS Price, M Paloni, M Salvalaglio, SL Price, Crystal Growth & Design 25 (9), 3186-3209](https://pubs.acs.org/doi/pdf/10.1021/acs.cgd.5c00255?ref=article_openPDF)
+- [Systematic finite-temperature reduction of crystal energy landscapes. NF Francia, LS Price, J Nyman, SL Price, M Salvalaglio, Crystal Growth & Design 20 (10), 6847-6862	23	2020](https://pubs.acs.org/doi/abs/10.1021/acs.cgd.0c00918)
 - [Reducing crystal structure overprediction of ibuprofen with large scale molecular dynamics simulations. NF Francia, LS Price, M Salvalaglio
 CrystEngComm 23 (33), 5575-5584	8	2021](https://pubs.rsc.org/en/content/articlehtml/2021/ce/d1ce00616a)
 - [Rationalising the difference in crystallisability of two sulflowers using efficient in silico methods. IJ Sugden, NF Francia, T Jensen, CS Adjiman, M Salvalaglio CrystEngComm 24 (39), 6830-6838 2022](https://pubs.rsc.org/en/content/articlehtml/2022/ce/d2ce00942k)
+
+[_CPOSS dataset explorer_](https://mme-ucl.github.io/CPOSS_landscape_explorer/)
 
 [_PyPOL Source_](https://github.com/mme-ucl/pypol)
 

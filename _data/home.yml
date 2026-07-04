@@ -75,12 +75,18 @@ old_project_entries:
     url: https://github.com/a-ws-m/CaMCaNN
     desc: Source code, notebooks, and paper as reported in "Analyzing the Accuracy of Critical Micelle Concentration Predictions using Deep Learning" A Moriarty et al. JCTC 2023. 
     highlight: source + example notebooks
+
+  - title: FEcrys
+    url: https://github.com/E471r/FEcrys
+    desc: Source code, notebooks, and paper as reported in "Analyzing the Accuracy of Critical Micelle Concentration Predictions using Deep Learning" E Olehnovics et al. ChemRxiv2025
+    highlight: source + example notebooks
     
+  - title: Clathrate Hydrate Classification 
+    url: https://github.com/mme-ucl/clathrate_hydrate_classification
+    desc: Source code, notebooks, and paper as reported in "Unsupervised classification of local clathrate hydrate structures" X Cai, A Striolo, M Salvalaglio, The Journal of Physical Chemistry C 130 (8), 3074-3084
+    highlight: source + example notebooks
     
 footer_entries:
-
-  - title: twitter
-    url: https://twitter.com/UCL_MMEgroup
 
   - title: github
     url: https://github.com/mme-ucl

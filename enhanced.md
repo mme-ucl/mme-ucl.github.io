@@ -10,11 +10,16 @@ In this context, we have developed methods to assess the quality of rate estimat
 Recently, part of our method development efforts focused on machine-learning/data-based approaches. We aim to combine modern machine-learning techniques with a deep understanding of the underlying physics to push the limits of modern simulation and modelling techniques.
 
 _Relevant Publications_: 
+- [Committor-regularized learning of differentiable collective variables from non-differentiable structural descriptors, FM Dietrich, MA Bellucci, M Salvalaglio, The Journal of Chemical Physics 164 (10), 2026](https://pubs.aip.org/aip/jcp/article/164/10/104115/3383269)
+- [On the reproducibility of free energy surfaces in machine-learned collective variable spaces, FM Dietrich, M Salvalaglio The Journal of Chemical Physics 163 (14), 2025](https://pubs.aip.org/aip/jcp/article/163/14/141102/3367455)
 - [Assessing the reliability of the dynamics reconstructed from metadynamics M Salvalaglio, P Tiwary, M Parrinello, Journal of chemical theory and computation 10 (4), 1420-1425, 2015.](https://pubs.acs.org/doi/abs/10.1021/ct500040r)
 - [Building Maps In Collective Variable Space, I Gimondi, G Tribello, M Salvalaglio, The Journal of Chemical Physics 149 (10), 104104, 2018.](https://pubs.aip.org/aip/jcp/article/149/10/104104/196263)
 - [Time-independent free energies from metadynamics via mean force integration, V Marinova, M Salvalaglio, The Journal of Chemical Physics 151 (16), 2019.](https://pubs.aip.org/aip/jcp/article/151/16/164115/1065327)
 - [Multiple pathways in NaCl homogeneous crystal nucleation, AR Finney, M Salvalaglio, Faraday Discussions 235, 56-80, 2022.](https://pubs.rsc.org/en/content/articlehtml/2022/fd/d1fd00089f)
 - [Machine Learning Nucleation Collective Variables with Graph Neural Networks, FM Dietrich, XR Advincula, G Gobbo, MA Bellucci, M Salvalaglio, Journal of Chemical Theory and Computation, 2023.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00722)
+
+_Review_: 
+- [Molecular Understanding of Free-Energy Landscapes, M Sega, M Salvalaglio, Annual Review of Chemical and Biomolecular Engineering 17, 2026](https://www.annualreviews.org/content/journals/10.1146/annurev-chembioeng-100724-082451), [online version](https://molecular-systems-engineering.github.io/FreeEnergyLandscapes)
 
 
 _Source Code_: 

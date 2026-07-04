@@ -2,11 +2,13 @@
 layout: post
 title: Generative Modelling for Free Energy Calculations
 ---
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Figure1_Lev.png" align="right" width="500px"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Figure1_Lev.png" align="right" width="800px"/>
 
 Free energy determines the stability of molecular systems at finite temperature, but it is difficult to compute accurately because it depends on both energy and entropy across many molecular configurations. In the MME group, we develop generative modelling approaches to make these calculations more efficient and more physically realistic.
 
 Our work uses probabilistic generative models, including normalising flows, to learn transformations between equilibrium molecular ensembles. These transformations allow us to estimate free-energy differences directly from molecular simulations, while retaining information about anharmonic motion, conformational disorder, lattice fluctuations and other finite-temperature effects that are often missed by static calculations.
+
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Figure2_Lev.png" align="left" width="800px"/>
 
 We apply these methods to molecular crystals, where small free-energy differences between polymorphs can determine stability, manufacturability and performance. By combining generative models with quantum-informed machine-learned interatomic potentials, we aim to make accurate free-energy calculations practical for complex condensed-phase molecular systems.
 
