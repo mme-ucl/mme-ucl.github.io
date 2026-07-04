@@ -24,6 +24,12 @@ project_entries:
   - title: Enhanced Sampling Method Development
     url: enhanced
 
+  - title: Generative Modelling for Free Energy Calculations
+    url: machine-learning-enhanced-FreeEnergy
+
+  - title: Reaction Rates from Enhanced Sampling
+    url: reaction_rates_from_enhanced_sampling
+
 old_project_entries:
   - title: PSSP II online notes
     url: https://msalvalaglio.github.io/PSSP_notebook/index.html#
