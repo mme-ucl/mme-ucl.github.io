@@ -3,6 +3,13 @@ layout: post
 title: PhD theses
 ---
 
+## Will Wood (2026)
+
+
+## Edgar Olehnovics (2026)
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/edgar.jpg" align="right" width="200"/>
+
+
 ## Alex Moriarty (2025)
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/alexm.png" align="right" width="150"/>
 ### [Improving formulations efficiency with molecularly-enhanced machine learning]()

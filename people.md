@@ -58,11 +58,11 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 
 **Alex Moriarty** - PhD Student - September 2021 - November 2025 _next destination:_ [Plasma Data Scientist @ Quantemol](https://www.linkedin.com/in/alexander-moriarty-540b00151/)
 
-**Xinrui Cai**  - PhD Student - September 2021 - July 2025 
+**Xinrui Cai**  - PhD Student - September 2021 - July 2025  _next destination:_ 
 
 **Antoniu Bjola** - PhD Student - September 2020 - July 2025
 
-**Alex Ferreira** - PhD Student - June 2021 - May 2025
+**Alex Ferreira** - PhD Student - June 2021 - May 2025 _next destination:_ [trainee patent attorney at Mewburn Ellis]
 
 **Florian Dietrich** - PhD Student - June 2021 - May 2025, _next destination:_ [Postdoctoral researcher in the group of Prof. Parrinello, IIT Genova (IT)](https://atsim.iit.it/people-details/-/people/florian-dietrich)
 
@@ -102,17 +102,15 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 ## Undergraduate Researchers 
 
 ### 2025/26
-- Natali Jackb - MSc
-- 
+- Natali Jackub - MSc
+- Danchen Zhao - MEng
 
 ### 2024/25
 - Wallace Chen - MEng
 - Marcus Chan - MEng
 - Ashwin Ganesaratnam - MEng
-- Natali Jakub, MSc
 - Lou Sen, MSc
 - Rai Bhattacharjee, Summer Research Intern
-
 
 ### 2023/24
 - Daniel Ryrz, MEng 
