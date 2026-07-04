@@ -14,7 +14,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="right"/>
 
 ## [Dr Fabienne Bachtiger](https://profiles.ucl.ac.uk/94086-fabienne-bachtiger) | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Fabienne.jpg" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/fabienne.jpg" align="right" width="200"/>
 <br clear="right"/>
 
 ## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
