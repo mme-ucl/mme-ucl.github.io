@@ -3,11 +3,9 @@ layout: post
 title: the group
 ---
 
-## [Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) | _Principal Investigator_ 
+## [Prof Matteo Salvalaglio](https://profiles.ucl.ac.uk/51512-matteo-salvalaglio) | _Principal Investigator_ 
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Msalvalaglio.jpeg" align="right" width="200px"/>
-Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. 
-Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland).
-Matteo is a member of the Thomas Young Centre and of the Centre for Process Systems Engineering. 
+Matteo is Professor of Molecular Systems Engineering in the Department of Chemical Engineering at UCL, which he joined in 09/2015. Matteo received his PhD in Chemical Engineering in 2011 from Politecnico di Milano, (Italy). From 2012 to 2015 he undertook postdoctoral research at ETH Zurich (Switzerland). Matteo is a member of the Thomas Young Centre and of the Sargent Centre for Process Systems Engineering. 
 <br clear="right"/>
 
 ## [Dr Lunna Li](https://profiles.ucl.ac.uk/76167-lunna-li) | _2020 - now_
@@ -16,7 +14,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="right"/>
 
 ## [Dr Fabienne Bachtiger](https://profiles.ucl.ac.uk/94086-fabienne-bachtiger) | _2023 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Fabienne.jpg" align="right" width="200"/>
 <br clear="right"/>
 
 ## [Dr Matteo Paloni](https://profiles.ucl.ac.uk/94737-matteo-paloni) | _2023 - now_
@@ -28,28 +26,39 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="right"/>
 
 ## Harveen Kaur | _2024 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Harveen.jpg" align="right" width="200"/>
 <br clear="right"/>
 
-## Edgar Olehnovics | _2021 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/edgar.jpg" align="right" width="200"/>
-My BSc background is in Pharmacology. During my MRes project at UCL, I investigated similarities and differences in dynamics and kinetics of four homologous beta-lactamase enzymes. In my spare time, I enjoy studying and implementing various machine learning techniques, especially in the context of pharmaceutically relevant systems. My current research is centred around enhanced molecular dynamics simulations, focusing on small-molecule crystalline systems.
-<br clear="right"/>
-
-## Will Wood | _2022 - now_
-**Co-Supervised by Prof. Sally Price**
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right"  width="200"/>
+## Samia Noor | _2026 - now_
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Samia.jpg" align="right" width="200"/>
 <br clear="right"/>
 
 ## Visiting Researchers: 
 
+**Giovanni Valenti** (Politecnico di Torino)
+
+**Dr Emmanuele Parisi** (Politecnico di Torino) 
+
+**Dr Dang Cam Tu Phan** (Marie Curie Fellow, Politecnico di Milano)
+
+**Prof Elena Simone** (Politecnico di Torino)
+
+**Prof Antonio Buffo** (Politecnico di Torino)
+
 ## Undergraduates: 
+
+**Yeni Oduwaiye** Summer Research Intern
+
 
 # Alumni
 
-**Alex Moriarty** - PhD Student - September 2021 - November 2025
+**Will Wood** - PhD Student - September 2022 - May 2026 _next destination:_ []
 
-**Xinrui Cai**  - PhD Student - September 2021 - July 2025
+**Edgar Olehnovics** - PhD Student - September 2021 - March 2026 _next destination:_ [Avantgarde Materials Simulation]()
+
+**Alex Moriarty** - PhD Student - September 2021 - November 2025 _next destination:_ [Plasma Data Scientist @ Quantemol](https://www.linkedin.com/in/alexander-moriarty-540b00151/)
+
+**Xinrui Cai**  - PhD Student - September 2021 - July 2025 
 
 **Antoniu Bjola** - PhD Student - September 2020 - July 2025
 
@@ -92,7 +101,9 @@ My BSc background is in Pharmacology. During my MRes project at UCL, I investiga
 
 ## Undergraduate Researchers 
 
-
+### 2025/26
+- Natali Jackb - MSc
+- 
 
 ### 2024/25
 - Wallace Chen - MEng
