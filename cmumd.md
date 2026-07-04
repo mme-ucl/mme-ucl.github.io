@@ -10,8 +10,7 @@ CμMD has been employed to investigate crystal growth, nucleation, membrane-base
 
 _Method Papers:_ 
 - [Molecular dynamics simulations of solutions at constant chemical potential, C Perego, M Salvalaglio, M Parrinello, The Journal of chemical physics 142 (14), 2015.](https://pubs.aip.org/aip/jcp/article/142/14/144113/898424/Molecular-dynamics-simulations-of-solutions-at)
-- [Concentration gradient driven molecular dynamics: a new method for simulations of membrane permeation and separation
-A Ozcan, C Perego, M Salvalaglio, M Parrinello, O Yazaydin, Chemical science 8 (5), 3858-3865, 2017](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c6sc04978h) 
+- [Concentration gradient driven molecular dynamics: a new method for simulations of membrane permeation and separation A Ozcan, C Perego, M Salvalaglio, M Parrinello, O Yazaydin, Chemical science 8 (5), 3858-3865, 2017](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c6sc04978h) 
 
 _Applications to electrochemical interfaces:_ 
 - [Constant chemical potential–quantum mechanical–molecular dynamics simulations of the graphene–electrolyte double layer

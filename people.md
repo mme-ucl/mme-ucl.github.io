@@ -58,7 +58,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 
 **Alex Moriarty** - PhD Student - September 2021 - November 2025 _next destination:_ [Plasma Data Scientist @ Quantemol](https://www.linkedin.com/in/alexander-moriarty-540b00151/)
 
-**Xinrui Cai**  - PhD Student - September 2021 - July 2025  _next destination:_ 
+**Xinrui Cai**  - PhD Student - September 2021 - July 2025  _next destination:_ [biotech startup in Singapore]
 
 **Antoniu Bjola** - PhD Student - September 2020 - July 2025
 
