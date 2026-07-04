@@ -30,7 +30,7 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 <br clear="right"/>
 
 ## Samia Noor | _2026 - now_
-<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Samia.jpg" align="right" width="200"/>
+<img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Samia.jpeg" align="right" width="200"/>
 <br clear="right"/>
 
 ## Visiting Researchers: 
