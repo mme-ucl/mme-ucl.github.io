@@ -24,6 +24,8 @@ Lunna Li studied Natural Sciences at the University of Cambridge during her unde
 ## [Dr Louise Price]() | _2023 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/logo.jpg" align="right" width="200"/>
 <br clear="right"/>
+Louise studied for a B.Sc. in Chemistry at the University of Liverpool, and followed it with a Ph.D. in Chemistry at UCL under the supervision of Professor Ivan Parkin.  She started on the CPOSS project at its commencement in 2003, as the project's administrator.  Over the years and many different projects, she has carried out many Crystal Structure Prediction searches, including some as part of industrial collaborations.  She has maintained the CPOSS Database which stores all the searches by all group members over the years.
+Outside work, she has a teenage daughter and enjoys learning as much as she teaches her.  They both enjoy science fiction and fantasy literature and art and crafts, but in totally different ways.
 
 ## Harveen Kaur | _2024 - now_
 <img src="https://github.com/mme-ucl/mme-ucl.github.io/raw/main/images/Harveen.jpg" align="right" width="200"/>
